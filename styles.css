@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+    text-align: center;
+
+
+}
+
+h2{
+    color: rgb(145, 114, 143);
+}
+
+h3{
+    color: brown;
+}
+a{
+    margin: 20px;
+    color: blueviolet;
+    font-size: 20px;
+}
